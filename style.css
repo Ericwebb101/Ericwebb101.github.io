@@ -1,0 +1,32 @@
+body {
+    background-color: #546E7A;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+a, a:visited {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.resolver_button {
+    background-color: #7a4caf;
+    border: darkturquoise;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

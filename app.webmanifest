@@ -1,0 +1,19 @@
+{
+   "name": "Resolver",
+   "start_url": "/index.html",
+   "display": "standalone",
+   "icons": [
+       {
+         "src":"logo_256.png",
+         "sizes": "any",
+         "type": "image/png"
+       },
+       {
+          "src":"logo_512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+       }
+     ],
+   "background_color": "#3367D6",
+   "theme_color": "#3367D6",
+}
